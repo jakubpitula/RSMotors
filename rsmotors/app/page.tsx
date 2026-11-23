@@ -17,7 +17,7 @@ import { Navbar } from "@/components/layout/Navbar";
 import { Hero } from "@/components/home/Hero";
 import { IntroSection } from "@/components/home/IntroSection";
 import { Services } from "@/components/home/Services";
-import { Stock } from "@/components/home/Stock";
+import { Stock } from "@/components/home/VehicleStock";
 import { WhyChooseUs } from "@/components/home/WhyChooseUs";
 import { ContactUs } from "@/components/home/ContactUs";
 
